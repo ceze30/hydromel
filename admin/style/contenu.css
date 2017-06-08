@@ -1,0 +1,54 @@
+.page_login{
+    float: left;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+    display: block;
+}
+
+input, button{
+    display: block;
+    margin: 1em auto;
+    min-width: 20em;
+    text-align: center;
+}
+
+#wrapper {
+    min-height:100%;
+    position:relative;
+}
+
+#edition, #sectionPage{
+    float: left;
+    width: 100%;
+    height: fit-content;
+    min-width: 20em;
+    text-align: center;
+    display: block;
+}
+
+#revenir, #valider{
+    display: inline;
+
+}
+
+#accueil_container{
+    text-align: left;
+    margin-left: 18%;
+
+}
+
+#accueil_description{
+    border-color: #888888;
+    height: 30%;
+}
+
+#btn_revenir{
+    text-align: left;
+
+}
+
+#btn_valider{
+    text-align: right;
+    margin-left: auto;
+}

@@ -1,0 +1,27 @@
+@charset "utf-8";
+nav{
+
+    margin-left:10%;
+    margin-right:10%;
+    width: 100%;
+    text-decoration: none;
+    text-align:center;
+}
+
+#sous-titre{
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 18%;
+    font-size: small;
+    color: #888888;
+}
+
+nav ul li {
+    padding:0 40px;
+    float : left;
+    display: inline;
+}
+
+li{
+
+}
